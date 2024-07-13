@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row">
           <div class="col text-center">
-            <img src="http://plasmichealth.co.uk/image/catalog/logo-new.png" alt="Logo">
+            <img src="{{asset('images/logo-new.png')}}" alt="Logo">
           </div>
         </div>
       </div>

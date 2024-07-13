@@ -11,13 +11,13 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="http://plasmichealth.co.uk/image/slider/111.png" class="d-block w-100" alt="...">
+                <img src="{{asset('images/111.png')}}" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="http://plasmichealth.co.uk/image/slider/22.png" class="d-block w-100" alt="...">
+                <img src="{{asset('images/22.png')}}" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="http://plasmichealth.co.uk/image/slider/333.png" class="d-block w-100" alt="...">
+                <img src="{{asset('images/333.png')}}" class="d-block w-100" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -34,11 +34,11 @@
 
             <h1 class="text-center">Our Service</h1>
             <p class="text-left">Plasmic HealthSciences is an established supplier with over 40 years of combined knowledge and experience providing to the public and private healthcare sector.</p>
-            
+
             <p class="text-left">Plasmic HealthSciences offer a range of products, from theatre quality surgical instruments to procedure packs and blood pressure cuffs and beyond through direct public frameworks, or private wholesale.</p>
-            
+
             <p class="text-left">We offer a range of products for our customers to choose from and provide an unparalleled customer experience to match each and every customers needs.</p>
-            
+
             <p class="text-left">An ISO 9001:2015 UKAS accredited supplier</p>
         </div>
         <div class="text-left">
@@ -83,10 +83,10 @@
             </div>
           </div>
         </div>
-       
-        
+
+
       </div>
-        
+
       </div>
     </div>
 

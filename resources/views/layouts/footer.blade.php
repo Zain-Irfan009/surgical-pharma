@@ -2,16 +2,16 @@
     <div class="container">
     <div class="row">
           <div class="my-2">
-            <img class="footer-logo" src="http://plasmichealth.co.uk/image/catalog/logo-new.png" alt="Logo">
+            <img class="footer-logo" src="{{asset('images/logo-new.png')}}" alt="Logo">
           </div>
         </div>
       <div class="row">
         <div class="col-md-3">
           <h5>Contact Details</h5>
           <p><a href="tel:+447940093712">+447940093712</a><br>
-          
+
           <a href="mailto:info@plasmichealth.co.uk">info@plasmichealth.co.uk</a></p>
-        
+
         </div>
         <div class="col-md-5">
         <p>UNISURGE International Limited, Farbound Innovation Formula Drive, Newmarket, CB8 0BF, United Kingdom<br>
@@ -34,22 +34,22 @@
         </div>
       </div>
       <div class="row mt-4 border-top pt-3">
-        
+
         <div class="col-md-4">
           <p>Plasmic HealthSciences UK Limited  &copy; 2024</p>
         </div>
         <div class="col-md-4">
           <p>Company registered in England No 02214024<br>Sales terms & conditions</p>
         </div>
-    
+
         <div class="col-md-4">
           <p>Designed and developed by <a href="#">Soft Vox</a></p>
         </div>
         </div>
     </div>
   </footer>
-    
-    
+
+
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
